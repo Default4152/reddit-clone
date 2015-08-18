@@ -1,0 +1,32 @@
+li {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    height: 50px;
+}
+
+.arrow {
+    text-align: center;
+    cursor: pointer;
+}
+
+.arrowContainer {
+    display: inline-block;
+    height: 50px;
+    float: left;
+}
+
+.arrowMidContainer {
+    width: 3rem;
+    -webkit-user-select:none;
+    user-select:none;
+}
+
+.upvotes {
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
